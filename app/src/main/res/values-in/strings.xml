@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LapLip</string>
+
+    <string name="login">Masuk</string>
+    <string name="next">Lanjut</string>
+    <string name="logout">Keluar</string>
+
+    <string name="email">Email</string>
+
+    <string name="email_invalid_message">Email tidak benar.</string>
+    <string name="email_code_sent_message">Kami telah mengirimkan kode otentikasi ke email anda</string>
+    <string name="enter_code_message">Silahkan masukkan kode otentikasi</string>
+    <string name="connection_error_message">Kesalahan koneksi</string>
+
+    <string name="access_too_many_message">Silakan coba lagi setelah </string>
+    <string name="code_invalid_message">Kamu memasukkan kode yang salah</string>
+
+    <string name="seconds"> detik</string>
+</resources>
